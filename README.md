@@ -53,8 +53,10 @@
 ## Videos and slides
 
 [Video 1](https://youtu.be/ONthKmxY9yQ)
+
 [Video 2](https://youtu.be/0vBwJiEpOKs)
-[Slides](https://github.com/eric-yyjau/2017MakeNTU_InInDer/ININDER.pdf)
+
+[Slides](https://github.com/eric-yyjau/2017MakeNTU_InInDer/blob/master/ININDER.pdf)
 
 ## References
 - [arduino + i2c](https://www.i2cdevlib.com/devices/mpu6050#source)
