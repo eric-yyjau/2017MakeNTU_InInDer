@@ -58,6 +58,8 @@
 
 [Slides](https://github.com/eric-yyjau/2017MakeNTU_InInDer/blob/master/ININDER.pdf)
 
+[Press](https://www.slideshare.net/YiLinJuang/makentu) p.13
+
 ## References
 - [arduino + i2c](https://www.i2cdevlib.com/devices/mpu6050#source)
 - [gyro tutorial](http://ming-shian.blogspot.tw/2014/05/arduino21mpu6050row-data.html)
